@@ -10,3 +10,6 @@
 section {
   padding-top: 5 rem;
 }
+html {
+  scroll-behavior: smooth;
+}
